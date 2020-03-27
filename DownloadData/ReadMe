@@ -1,0 +1,5 @@
+Read Me. 
+
+getArr.py //to get the arrival for a whole day of events
+getarrfromfile.py  //extract the arrivals  and event data for specific event form the daily arrivals file 
+getwaveformData.py // get the waveform for each event and copy it to the folder that contains the arrivals data
